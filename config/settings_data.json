@@ -25,11 +25,12 @@
     "show_breadcrumbs_on_desktop": true,
     "show_social_media_on_mobile": true,
     "cart_notes_enable": false,
+    "enable_full_product_titles": false,
     "icon_cart": "local_mall",
     "cart_bubble": false,
     "cart_bubble_animation": false,
     "cart_count": false,
-    "cart_cost_checkout": false,
+    "cart_cost_checkout": true,
     "color_announcement_bg": "#383838",
     "color_body_text": "#060606",
     "color_primary": "#3e3e3e",
@@ -58,6 +59,7 @@
     "color_footer_sales_price": "#060606",
     "color_overlay": "#5b5b5b",
     "favicon": "shopify:\/\/shop_images\/T-Blanca_95281177-b4f5-4c23-a8be-b7865926b084.jpg",
+    "tracking_app": "",
     "share_facebook": false,
     "share_twitter": false,
     "share_pinterest": false,
@@ -74,11 +76,13 @@
     "dbtfy_cart_savings": false,
     "dbtfy_cart_reminder": false,
     "dbtfy_cart_upsell": false,
+    "dbtfy_gift_wrap": false,
+    "dbtfy_minimum_order": false,
     "dbtfy_quantity_breaks": false,
     "dbtfy_upsell_bundles": false,
     "dbtfy_upsell_popup": false,
     "dbtfy_addtocart_animation": false,
-    "dbtfy_cart_discount": false,
+    "dbtfy_cart_discount": true,
     "dbtfy_cart_favicon": false,
     "dbtfy_customizable_products": false,
     "dbtfy_delivery_time": false,
@@ -104,14 +108,19 @@
     "dbtfy_linked_options": true,
     "dbtfy_mega_menu": true,
     "dbtfy_quick_compare": false,
+    "dbtfy_size_chart": true,
+    "dbtfy_agree_to_terms": true,
     "dbtfy_color_swatches_color": "Color",
     "dbtfy_color_swatches_grid": "Negro",
     "dbtfy_color_swatches_count": 3,
     "currency_message": false,
+    "dbtfy_gift_wrap_product": "",
     "dbtfy_menu_bar_desktop": false,
     "dbtfy_menu_bar_mobile": false,
+    "dbtfy_minimum_order_amount": "200000",
     "dbtfy_newsletter_floating_bar": false,
     "dbtfy_quick_compare_button_position": "left",
+    "dbtfy_trust_badge_text_small": false,
     "dbtfy_wish_list_bubble": false,
     "dbtfy_wish_list_count": false,
     "sections": {
@@ -226,6 +235,26 @@
       },
       "dbtfy-size-chart": {
         "type": "dbtfy-size-chart",
+        "blocks": {
+          "42aba099-7dd3-46b8-a37f-dd5f73668d79": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "dbtfy_size_chart_popup_title": "Size guide",
+              "dbtfy_size_chart_abovetext": "",
+              "dbtfy_size_chart_html": "<table>\n<thead><tr>\n<td>Mens<\/td>\n<td>Small<\/td>\n<td>Medium<\/td>\n<td>Large<\/td>\n<td>X-Large<\/td>\n<td>XX-Large<\/td>\n<\/tr><\/thead>\n<tbody>\n<tr>\n<td>Neck<\/td>\n<td>14-14.5<\/td>\n<td>15-15.5<\/td>\n<td>16-16.5<\/td>\n<td>17-17.5<\/td>\n<td>18-18.5<\/td>\n<\/tr>\n<tr>\n<td>Chest<\/td>\n<td>35-37<\/td>\n<td>38-40<\/td>\n<td>41-43<\/td>\n<td>44-46<\/td>\n<td>47-49<\/td>\n<\/tr>\n<tr>\n<td>Sleeve<\/td>\n<td>32-33<\/td>\n<td>33-34<\/td>\n<td>34-35<\/td>\n<td>35-36<\/td>\n<td>36-36.5<\/td>\n<\/tr>\n<tr>\n<td>Waist<\/td>\n<td>29-31<\/td>\n<td>32-34<\/td>\n<td>35-37<\/td>\n<td>38-40<\/td>\n<td>41-43<\/td>\n<\/tr>\n<\/tbody>\n<\/table>",
+              "dbtfy_size_chart_undertext": "",
+              "visibility": "product",
+              "dbtfy_size_chart_collection": "",
+              "dbtfy_size_chart_type": "",
+              "dbtfy_size_chart_tag": "",
+              "dbtfy_size_chart_product": ""
+            }
+          }
+        },
+        "block_order": [
+          "42aba099-7dd3-46b8-a37f-dd5f73668d79"
+        ],
         "settings": {
           "dbtfy_size_chart_icon": "straighten",
           "dbtfy_size_chart_title": "Size chart",
