@@ -65,6 +65,7 @@
     },
     "1658561343e7a258cd": {
       "type": "hero",
+      "disabled": true,
       "blocks": {
         "79a9fd29-76ca-46af-b000-0ffd5ecc45e7": {
           "type": "slide",
