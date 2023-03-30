@@ -3,16 +3,36 @@
     "sticky_header": true,
     "sticky_announcement_bar": false,
     "height_header": 70,
+    "search_show_collections": false,
+    "search_show_products": false,
+    "search_show_articles": false,
+    "search_show_pages": false,
     "icon": "material-icons-outlined",
     "enable_product_accent_background": true,
     "enable_history_state": false,
     "tag_placement": "top-left",
     "hide_collection_title": false,
     "collection_grid_button_style": "btn--primary",
+    "show_author": true,
     "show_breadcrumbs_on_desktop": true,
     "show_social_media_on_mobile": true,
+    "cart_notes_enable": false,
     "icon_cart": "local_mall",
-    "favicon": "shopify:\/\/shop_images\/fev.png",
+    "cart_bubble": false,
+    "cart_bubble_animation": false,
+    "cart_count": false,
+    "cart_cost_checkout": false,
+    "color_announcement_bg": "#383838",
+    "color_primary": "#3e3e3e",
+    "color_footer_bg": "#ffffff",
+    "color_footer_text": "#000000",
+    "favicon": "shopify:\/\/shop_images\/T-Blanca_95281177-b4f5-4c23-a8be-b7865926b084.jpg",
+    "share_facebook": false,
+    "share_twitter": false,
+    "share_pinterest": false,
+    "share_whatsapp": false,
+    "share_email": false,
+    "share_messenger": false,
     "social_facebook_link": "https:\/\/www.facebook.com\/",
     "social_twitter_link": "https:\/\/twitter.com\/NiravKheni2",
     "social_pinterest_link": "https:\/\/in.pinterest.com\/",
@@ -20,11 +40,31 @@
     "social_tiktok_link": "https:\/\/www.tiktok.com\/about",
     "social_linkedin_link": "https:\/\/www.linkedin.com\/in\/niravkheni\/",
     "social_youtube_link": "https:\/\/www.youtube.com\/",
-    "dbtfy_skip_cart": true,
-    "dbtfy_instagram_feed": true,
+    "dbtfy_cart_savings": false,
+    "dbtfy_addtocart_animation": false,
+    "dbtfy_cart_discount": false,
+    "dbtfy_cart_favicon": false,
+    "dbtfy_customizable_products": false,
+    "dbtfy_delivery_time": false,
+    "dbtfy_discount_saved": false,
+    "dbtfy_inactive_tab_message": false,
+    "dbtfy_inventory_quantity": false,
+    "dbtfy_product_bullet_points": false,
+    "dbtfy_sales_countdown": false,
+    "dbtfy_skip_cart": false,
+    "dbtfy_sticky_addtocart": false,
+    "dbtfy_trust_badge": false,
+    "dbtfy_instagram_feed": false,
+    "dbtfy_order_feedback": false,
     "dbtfy_wish_list": true,
     "dbtfy_collection_addtocart": true,
+    "dbtfy_custom_currencies": false,
+    "dbtfy_delivery_date": false,
     "dbtfy_mega_menu": true,
+    "currency_message": false,
+    "dbtfy_menu_bar_desktop": false,
+    "dbtfy_menu_bar_mobile": false,
+    "dbtfy_newsletter_floating_bar": false,
     "dbtfy_quick_compare_button_position": "left",
     "sections": {
       "dbtfy-bullet-points": {
@@ -79,7 +119,7 @@
       "dbtfy-product-swatches": {
         "type": "dbtfy-product-swatches",
         "settings": {
-          "dbtfy_product_swatches_show_in_grid": true
+          "dbtfy_product_swatches_show_in_grid": false
         }
       },
       "dbtfy-quantity-breaks": {
@@ -203,9 +243,11 @@
           "main_menu_link_list": "main-menu",
           "navigation_type": "center",
           "logo_link": true,
-          "default_logo_svg": "debutify-logo.svg",
-          "inverted_logo_svg": "debutify-logo-inverted.svg",
-          "mobile_logo_svg": "debutify-logo.svg",
+          "default_logo": "shopify:\/\/shop_images\/LOGO-TALLER.png",
+          "mobile_logo": "shopify:\/\/shop_images\/LOGO-TALLER.png",
+          "default_logo_svg": "",
+          "inverted_logo_svg": "",
+          "mobile_logo_svg": "",
           "logo_width": 200,
           "logo_mobile_width": 100
         }
@@ -213,7 +255,7 @@
       "dbtfy-instagram-feed": {
         "type": "dbtfy-instagram-feed",
         "settings": {
-          "dbtfy_instagram_feed_icon": true,
+          "dbtfy_instagram_feed_icon": false,
           "dbtfy_instagram_feed_access_token": "faec66af232e9745af39de9c4ec50d37",
           "dbtfy_instagram_feed_full_width": false,
           "title": "Follow Debutify on Instagram!",
@@ -291,7 +333,7 @@
           "1e12f5c5-6e9a-4100-972e-cf1bfbb18781"
         ],
         "settings": {
-          "show_guarantee": true,
+          "show_guarantee": false,
           "guarantee_size": "xl",
           "section_style": "section-border"
         }
@@ -342,13 +384,22 @@
           "footer-2"
         ],
         "settings": {
-          "show_social_media": true,
+          "show_social_media": false,
           "social_media_position_desktop": "center",
           "social_title": "Follow-us on social media!",
           "show_payment_icons": true,
-          "show_shopify_footer": true,
-          "show_debutify_footer": true,
+          "show_shopify_footer": false,
+          "show_debutify_footer": false,
           "custom_credential": ""
+        }
+      },
+      "dbtfy-collection-filters": {
+        "type": "dbtfy-collection-filters",
+        "settings": {
+          "clear_label": "Clear",
+          "clear_all_label": "Clear All",
+          "hide_unavailable_options": false,
+          "visibility_tags_count": "none"
         }
       }
     },
