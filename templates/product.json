@@ -105,7 +105,7 @@
       ],
       "settings": {
         "dbtfy_upsell_bundles_title": "Frequently bought together",
-        "dbtfy_upsell_bundles_subtitle": "",
+        "dbtfy_upsell_bundles_subtitle": "jjjjj",
         "dbtfy_upsell_bundles_total": "Total price:",
         "dbtfy_upsell_bundles_cart": "Add selected items",
         "dbtfy_upsell_bundles_icons": "library_add_check",
@@ -118,17 +118,6 @@
         "dbtfy_upsell_bundles_discount_code": "gerg",
         "dbtfy_upsell_bundles_discount_amount": "100",
         "dbtfy_upsell_bundles_discount_type": "%"
-      }
-    },
-    "pricing-table": {
-      "type": "dbtfy-pricing-table",
-      "settings": {
-        "show_on_desktop": true,
-        "show_on_mobile": true,
-        "title": "Pricing table",
-        "subtitle": "",
-        "section_style": "section-blank",
-        "dbtfy_button_position": "middle"
       }
     },
     "product-recommendations": {
@@ -183,7 +172,6 @@
   "order": [
     "main",
     "upsell-bundles",
-    "pricing-table",
     "product-recommendations",
     "review-widget",
     "related-products",
