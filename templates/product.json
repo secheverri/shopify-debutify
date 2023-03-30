@@ -39,7 +39,7 @@
             "title": "",
             "dbtfy_upsell_bundles_product_trigger_1": "argentina-crop",
             "dbtfy_upsell_bundles_product_offer_1_1": "argentina-pants",
-            "dbtfy_upsell_bundles_product_offer_2_1": "",
+            "dbtfy_upsell_bundles_product_offer_2_1": "argentina-crop",
             "dbtfy_upsell_bundles_discount_code_1": "",
             "dbtfy_upsell_bundles_discount_amount_1": "",
             "dbtfy_upsell_bundles_discount_type_1": "%",
@@ -105,9 +105,9 @@
       ],
       "settings": {
         "dbtfy_upsell_bundles_title": "Frequently bought together",
-        "dbtfy_upsell_bundles_subtitle": "jjjjj",
-        "dbtfy_upsell_bundles_total": "Total price:",
-        "dbtfy_upsell_bundles_cart": "Add selected items",
+        "dbtfy_upsell_bundles_subtitle": "Prueba",
+        "dbtfy_upsell_bundles_total": "Total:",
+        "dbtfy_upsell_bundles_cart": "Adicionar",
         "dbtfy_upsell_bundles_icons": "library_add_check",
         "dbtfy_upsell_bundles_current": "This item:",
         "section_style": "section-border",
@@ -117,7 +117,7 @@
         "dbtfy_upsell_bundles_position": "product",
         "dbtfy_upsell_bundles_discount_code": "gerg",
         "dbtfy_upsell_bundles_discount_amount": "100",
-        "dbtfy_upsell_bundles_discount_type": "%"
+        "dbtfy_upsell_bundles_discount_type": "$"
       }
     },
     "product-recommendations": {
