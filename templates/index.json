@@ -1,5 +1,16 @@
 {
   "sections": {
+    "2634bbc9-8483-4847-87e8-bd7f669ba700": {
+      "type": "featured-image",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "full_width": true,
+        "image": "shopify:\/\/shop_images\/Inicio-Calle-Luna_909f5081-925b-47f8-9fc2-1f870178556b.jpg",
+        "section_style": "section-blank",
+        "image_link": ""
+      }
+    },
     "1658561622a35138b8": {
       "type": "featured-collections",
       "blocks": {
@@ -130,21 +141,6 @@
         "autoplayspeed": 5
       }
     },
-    "1658752659be4a183f": {
-      "type": "featured-content",
-      "settings": {
-        "show_on_desktop": true,
-        "show_on_mobile": true,
-        "title": "Check Out Our Premium Content",
-        "text": "<p>For Anyone Looking To Expand Their Knowledge And Connect!<\/p>",
-        "section_style": "section-default",
-        "text_size": "large",
-        "text_alignment": "text-center",
-        "button_style": "btn--primary",
-        "button_label": "",
-        "button_link": ""
-      }
-    },
     "1658753593566336e1": {
       "type": "featured-video",
       "disabled": true,
@@ -184,157 +180,13 @@
         "subtitle": "",
         "section_style": "section-default"
       }
-    },
-    "16587545215ad61c31": {
-      "type": "newsletter",
-      "settings": {
-        "show_on_desktop": true,
-        "show_on_mobile": true,
-        "title": "Subscribe to our newsletter",
-        "subtitle": "Get 10% off your first purchase and stay on top of the latest in Debutify, it's win-win-WIN!",
-        "section_style": "section-blank",
-        "customer_tag": "newsletter"
-      }
-    },
-    "1658755910a9c20a35": {
-      "type": "dbtfy-pricing-table",
-      "blocks": {
-        "1658755910ed961bf0-0": {
-          "type": "plan",
-          "settings": {
-            "title": "",
-            "dbtfy_full_background": false,
-            "dbtfy_plan_badge": "",
-            "dbtfy_plan_icon": "local_offer",
-            "dbtfy_plan_title": "Our Mug",
-            "dbtfy_plan_description": "",
-            "dbtfy_plan_price": "₹ 1550",
-            "dbtfy_plan_price_text": "",
-            "dbtfy_plan_button_label": "Get started",
-            "dbtfy_plan_button_link": "",
-            "dbtfy_plan_button_style": "btn-outline-primary",
-            "dbtfy_plan_button_description": "",
-            "dbtfy_plan_details": "<p>Sturdy ceramic for durability,White coating with a silver rim,Great for camping<\/p>",
-            "dbtfy_plan_details_icon": "check_circle"
-          }
-        },
-        "aac0de96-00ab-49d9-bd6c-4cd63db43309": {
-          "type": "plan",
-          "settings": {
-            "title": "",
-            "dbtfy_full_background": true,
-            "dbtfy_plan_badge": "Most popular",
-            "dbtfy_plan_icon": "local_offer",
-            "dbtfy_plan_title": "Our Phone Case",
-            "dbtfy_plan_description": "",
-            "dbtfy_plan_price": "₹ 2150",
-            "dbtfy_plan_price_text": "",
-            "dbtfy_plan_button_label": "Get started",
-            "dbtfy_plan_button_link": "",
-            "dbtfy_plan_button_style": "btn--primary",
-            "dbtfy_plan_button_description": "",
-            "dbtfy_plan_details": "<p>100% biodegradable material, Anti-shock protection, Thickness over 1.8mm<\/p>",
-            "dbtfy_plan_details_icon": "check_circle"
-          }
-        },
-        "d3553719-cd6c-4531-9a8b-e8b4da0bc93e": {
-          "type": "plan",
-          "settings": {
-            "title": "",
-            "dbtfy_full_background": false,
-            "dbtfy_plan_badge": "",
-            "dbtfy_plan_icon": "local_offer",
-            "dbtfy_plan_title": "Our Cap",
-            "dbtfy_plan_description": "",
-            "dbtfy_plan_price": "₹ 2250",
-            "dbtfy_plan_price_text": "",
-            "dbtfy_plan_button_label": "Get started",
-            "dbtfy_plan_button_link": "",
-            "dbtfy_plan_button_style": "btn-outline-primary",
-            "dbtfy_plan_button_description": "",
-            "dbtfy_plan_details": "<p>100% cotton twill, Black sweatband, Metal snap buckle with an antique brass finish<\/p>",
-            "dbtfy_plan_details_icon": "check_circle"
-          }
-        }
-      },
-      "block_order": [
-        "1658755910ed961bf0-0",
-        "aac0de96-00ab-49d9-bd6c-4cd63db43309",
-        "d3553719-cd6c-4531-9a8b-e8b4da0bc93e"
-      ],
-      "settings": {
-        "show_on_desktop": true,
-        "show_on_mobile": true,
-        "title": "Top picks",
-        "subtitle": "",
-        "section_style": "section-blank",
-        "dbtfy_button_position": "middle"
-      }
-    },
-    "1658836893613dc5f1": {
-      "type": "quotes",
-      "blocks": {
-        "16588368934eced26e-0": {
-          "type": "quote",
-          "settings": {
-            "title": "",
-            "icon": "format_quote",
-            "quote": "<p>\"Theme is very professional and there's no need for much apps because of all the included tools built into the theme settings. So that alone saves a lot of $. I love it! It really made it easier starting off and getting through the learning curve. Got the link off of one of AC Hampton's YouTube videos. Glad I tried it.\"<\/p>",
-            "author": "Scott Carney",
-            "text_alignment": "text-center",
-            "text_alignment_mobile": "text-center"
-          }
-        },
-        "16588368934eced26e-1": {
-          "type": "quote",
-          "settings": {
-            "title": "",
-            "icon": "format_quote",
-            "quote": "<p>\"Amazing add ons with clear instructions on how to remove\/edit the theme accordingly. Great product page and cart add ons. Love it!!!\"<\/p>",
-            "author": "Jessie Wilson",
-            "text_alignment": "text-center",
-            "text_alignment_mobile": "text-center"
-          }
-        },
-        "16588368934eced26e-2": {
-          "type": "quote",
-          "settings": {
-            "title": "",
-            "icon": "format_quote",
-            "quote": "<p>\"I officially launched my brand today and I wanted to thank Debutify for being a huge part of this journey. If not for how seemingly easy and organized there theme is, I would have not been able to stay on track and motivated to finish my e-commerce store. Thank you so much to all of you!\"<\/p>",
-            "author": "Mia Santos",
-            "text_alignment": "text-center",
-            "text_alignment_mobile": "text-center"
-          }
-        }
-      },
-      "block_order": [
-        "16588368934eced26e-0",
-        "16588368934eced26e-1",
-        "16588368934eced26e-2"
-      ],
-      "settings": {
-        "show_on_desktop": true,
-        "show_on_mobile": true,
-        "title": "What Are Users Saying About Debutify?",
-        "subtitle": "",
-        "section_style": "section-blank",
-        "quote_width": "60",
-        "arrows": true,
-        "dots": true,
-        "autoplay": true,
-        "autoplayspeed": 5
-      }
     }
   },
   "order": [
+    "2634bbc9-8483-4847-87e8-bd7f669ba700",
     "1658561622a35138b8",
     "1658561343e7a258cd",
     "1658751174e677668b",
-    "1658752659be4a183f",
-    "1658753593566336e1",
-    "16587545215ad61c31",
-    "1658755910a9c20a35",
-    "1658836893613dc5f1"
+    "1658753593566336e1"
   ]
 }
