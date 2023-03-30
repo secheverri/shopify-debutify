@@ -1,48 +1,5 @@
 {
   "sections": {
-    "1658561343e7a258cd": {
-      "type": "hero",
-      "blocks": {
-        "79a9fd29-76ca-46af-b000-0ffd5ecc45e7": {
-          "type": "slide",
-          "settings": {
-            "title": "",
-            "overlay": true,
-            "image_position": "center center",
-            "image_position_mobile": "center center",
-            "slide_link": "",
-            "video": "",
-            "heading_text": "Empowering Ecommerce",
-            "text": "<p>Users of the highest converting shopify theme deserve a lifestyle to match!<\/p>",
-            "text_position": "align-center",
-            "text_position_mobile": "align-center",
-            "text_alignment": "text-center",
-            "text_alignment_mobile": "text-center",
-            "enable_custom_fonts": false,
-            "slideshow_family": "poppins_n4",
-            "button_label": "Shop now",
-            "button_link": "shopify:\/\/collections\/all",
-            "button_style": "btn--primary",
-            "button_label_2": "Learn more",
-            "button_link_2": "shopify:\/\/collections\/all",
-            "button_style_2": ""
-          }
-        }
-      },
-      "block_order": [
-        "79a9fd29-76ca-46af-b000-0ffd5ecc45e7"
-      ],
-      "settings": {
-        "show_on_desktop": true,
-        "show_on_mobile": true,
-        "section_height": "medium",
-        "section_height_mobile": "large",
-        "arrows": true,
-        "dots": true,
-        "autoplay": false,
-        "autoplayspeed": 8
-      }
-    },
     "1658561622a35138b8": {
       "type": "featured-collections",
       "blocks": {
@@ -104,6 +61,49 @@
         "slider_featured_collections": true,
         "arrows": true,
         "dots": true
+      }
+    },
+    "1658561343e7a258cd": {
+      "type": "hero",
+      "blocks": {
+        "79a9fd29-76ca-46af-b000-0ffd5ecc45e7": {
+          "type": "slide",
+          "settings": {
+            "title": "",
+            "overlay": true,
+            "image_position": "center center",
+            "image_position_mobile": "center center",
+            "slide_link": "",
+            "video": "",
+            "heading_text": "Empowering Ecommerce",
+            "text": "<p>Users of the highest converting shopify theme deserve a lifestyle to match!<\/p>",
+            "text_position": "align-center",
+            "text_position_mobile": "align-center",
+            "text_alignment": "text-center",
+            "text_alignment_mobile": "text-center",
+            "enable_custom_fonts": false,
+            "slideshow_family": "poppins_n4",
+            "button_label": "Shop now",
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style": "btn--primary",
+            "button_label_2": "Learn more",
+            "button_link_2": "shopify:\/\/collections\/all",
+            "button_style_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "79a9fd29-76ca-46af-b000-0ffd5ecc45e7"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "section_height": "xsmall",
+        "section_height_mobile": "large",
+        "arrows": true,
+        "dots": true,
+        "autoplay": false,
+        "autoplayspeed": 8
       }
     },
     "1658751174e677668b": {
@@ -327,8 +327,8 @@
     }
   },
   "order": [
-    "1658561343e7a258cd",
     "1658561622a35138b8",
+    "1658561343e7a258cd",
     "1658751174e677668b",
     "1658752659be4a183f",
     "1658753593566336e1",
