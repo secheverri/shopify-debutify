@@ -69,6 +69,11 @@
     "social_linkedin_link": "https:\/\/www.linkedin.com\/in\/niravkheni\/",
     "social_youtube_link": "https:\/\/www.youtube.com\/",
     "dbtfy_cart_savings": false,
+    "dbtfy_cart_reminder": false,
+    "dbtfy_cart_upsell": false,
+    "dbtfy_quantity_breaks": false,
+    "dbtfy_upsell_bundles": false,
+    "dbtfy_upsell_popup": false,
     "dbtfy_addtocart_animation": false,
     "dbtfy_cart_discount": false,
     "dbtfy_cart_favicon": false,
@@ -84,10 +89,13 @@
     "dbtfy_trust_badge": false,
     "dbtfy_back_in_stock": false,
     "dbtfy_instagram_feed": false,
+    "dbtfy_newsletter_popup": false,
     "dbtfy_order_feedback": false,
     "dbtfy_social_discount": false,
     "dbtfy_wish_list": false,
-    "dbtfy_collection_addtocart": true,
+    "dbtfy_collection_addtocart": false,
+    "dbtfy_collection_filters": false,
+    "dbtfy_color_swatches": true,
     "dbtfy_custom_currencies": false,
     "dbtfy_delivery_date": false,
     "dbtfy_mega_menu": true,
@@ -126,6 +134,37 @@
       },
       "dbtfy-color-swatches": {
         "type": "dbtfy-color-swatches",
+        "blocks": {
+          "59d0b72a-f398-419e-9900-e7998d879ea7": {
+            "type": "swatch",
+            "settings": {
+              "heading": "Color",
+              "title_1": "Negro",
+              "dbtfy_swatches_color_value_1": "#101010",
+              "title_2": "Gris",
+              "dbtfy_swatches_color_value_2": "#808080",
+              "title_3": "Uva",
+              "dbtfy_swatches_color_value_3": "#ad8ad4",
+              "title_4": "",
+              "dbtfy_swatches_color_value_4": "",
+              "title_5": "",
+              "dbtfy_swatches_color_value_5": "",
+              "title_6": "",
+              "dbtfy_swatches_color_value_6": "",
+              "title_7": "",
+              "dbtfy_swatches_color_value_7": "",
+              "title_8": "",
+              "dbtfy_swatches_color_value_8": "",
+              "title_9": "",
+              "dbtfy_swatches_color_value_9": "",
+              "title_10": "",
+              "dbtfy_swatches_color_value_10": ""
+            }
+          }
+        },
+        "block_order": [
+          "59d0b72a-f398-419e-9900-e7998d879ea7"
+        ],
         "settings": {
         }
       },
