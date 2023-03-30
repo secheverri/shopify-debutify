@@ -32,6 +32,7 @@
     },
     "upsell-bundles": {
       "type": "dbtfy-upsell-bundles",
+      "disabled": true,
       "blocks": {
         "0b5e13be-2283-4f0b-bf3b-b65a6d6465e8": {
           "type": "bundle",

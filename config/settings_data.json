@@ -21,6 +21,7 @@
     "show_tags": true,
     "show_locale_selector": false,
     "show_currency_selector": false,
+    "show_back_to_collection": false,
     "show_breadcrumbs_on_desktop": true,
     "show_social_media_on_mobile": true,
     "cart_notes_enable": false,
@@ -74,7 +75,7 @@
     "dbtfy_cart_reminder": false,
     "dbtfy_cart_upsell": false,
     "dbtfy_quantity_breaks": false,
-    "dbtfy_upsell_bundles": true,
+    "dbtfy_upsell_bundles": false,
     "dbtfy_upsell_popup": false,
     "dbtfy_addtocart_animation": false,
     "dbtfy_cart_discount": false,
@@ -262,7 +263,7 @@
             "type": "message",
             "settings": {
               "title": "",
-              "announcement_text": "<p>Free shipping worldwide | 30-Day free returns<\/p>"
+              "announcement_text": "<p>Envío gratis por compras superiores a $200.000<\/p>"
             }
           }
         },
@@ -272,11 +273,11 @@
         "settings": {
           "show_announcement": true,
           "small_announcement_text": false,
-          "show_social": true,
-          "email": true,
+          "show_social": false,
+          "email": false,
           "phone": false,
-          "left_message": "<p>Follow us!<\/p>",
-          "right_message": "<p>Get in touch with us<\/p>",
+          "left_message": "",
+          "right_message": "",
           "announcement_autoplayspeed": 5
         }
       },
